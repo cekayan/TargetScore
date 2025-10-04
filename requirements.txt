@@ -1,0 +1,14 @@
+# Inferred dependencies for the TargetScore project
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+openpyxl
+scipy
+torch
+joblib
+tqdm
+xlrd
+# Add any other dependencies your code uses (e.g., tensorflow, pytorch-lightning).
