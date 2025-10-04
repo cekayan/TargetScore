@@ -24,14 +24,11 @@ dist/
 .ipynb_checkpoints
 
 # PyTorch
-*.pt
+
 *.pth
 
 # Data files
-*.csv
-*.tsv
-*.pkl
-*.h5
+
 
 # OS files
 .DS_Store
